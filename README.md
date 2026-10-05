@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hai, saya Ilham Agus Kurniawan
 
-<!--
-**IlhamAgusk/IlhamAgusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning fullstack developer. Lulusan Teknik Informatika, UIN Sultan Syarif Kasim Riau (2026).
 
-Here are some ideas to get you started:
+## Fokus saat ini
+- Merancang platform booking wisata/homestay: pemesanan aman dari double-booking, pembayaran idempoten, pengujian otomatis, CI/CD (repo menyusul)
+- Memperdalam Node.js, PostgreSQL, Docker, dan pengujian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pengalaman
+- **Instruktur pelatihan pemrograman web pariwisata** (Laravel/PHP), Kabupaten Siak: [materi pelatihan](https://github.com/IlhamAgusk/instruktur-pariwisata-siak)
+- **Tugas Akhir:** REST API inventaris barang (Node.js, Express, Knex, PostgreSQL, Swagger, CI/CD GitHub Actions). Repo private
+
+## Teknologi
+- Utama: Node.js, Express, PostgreSQL, Docker, Git
+- Juga: PHP/Laravel, Java
+- Sedang belajar: Go
